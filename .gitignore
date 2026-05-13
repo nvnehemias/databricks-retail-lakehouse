@@ -1,4 +1,12 @@
+# Ignore datasets
+data/
+
+# Ignore Mac files
 .DS_Store
+
+# Ignore Python cache
 *.pyc
 .ipynb_checkpoints/
+
+# Ignore environment files
 .env
